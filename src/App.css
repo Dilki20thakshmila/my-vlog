@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.homepage-background {
+  background-image: url('./images/background.avif');
+  background-size: cover;
+  min-height: 100vh;
+}
